@@ -1,1 +1,1 @@
-worker: 
+worker: python twitter_api_practice.py
